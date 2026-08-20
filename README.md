@@ -1,6 +1,6 @@
 # Hi, I'm Prathmesh Kate
 
-Backend-focused software engineer building reliable APIs, data-backed applications, and AI-enabled product workflows.
+Software engineer building reliable APIs, data-backed applications, and AI-enabled product workflows.
 
 - Full Stack Developer Intern at **thyssenkrupp**, working on internal project-management, site-management, and CRM applications
 - 2026 B.E. graduate in **Artificial Intelligence and Data Science**
