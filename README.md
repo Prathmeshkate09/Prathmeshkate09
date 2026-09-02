@@ -9,14 +9,14 @@ Software engineer building reliable APIs, data-backed applications, and AI-enabl
 
 ## Selected projects
 
-### [CodexForge](https://github.com/Prathmeshkate09/CodexForge)
+### [Enterprise ChangeOps](https://github.com/Prathmeshkate09/Enterprise_ChangeOps)
 
-Human-in-the-loop software-automation platform built around auditable work items, workflow runs, approvals, and safe state transitions.
+Governed, event-driven platform for coordinating high-risk changes across enterprise systems with AI-assisted analysis and deterministic execution controls.
 
-- Async FastAPI backend with PostgreSQL, SQLAlchemy, Alembic, authentication, audit events, and idempotency controls
-- React and TypeScript frontend with unit and browser-level workflow tests
-- 36 automated test cases in source and a GitHub Actions pipeline covering formatting, linting, type checks, tests, security scans, Docker builds, and Terraform validation
-- Current status: the workflow foundation is implemented; end-to-end GitHub execution and pull-request automation are in progress
+- Seven-agent Google ADK fleet for evidence gathering, impact analysis, planning, risk, compliance, verification, and rollback recommendations
+- Next.js Control Tower and FastAPI services backed by durable Firestore state, Pub/Sub workflows, exact-plan human approval, and auditable tool execution
+- Private Google Cloud deployment across Cloud Run, Model Armor, Secret Manager, Artifact Registry, Cloud Build, Firestore, and Pub/Sub
+- Built-in tenant isolation, bounded tools, independent verification, rollback from hashed snapshots, and disabled production writes
 
 ### [ScamShield AI](https://github.com/Prathmeshkate09/ScamShield-AI)
 
@@ -39,7 +39,7 @@ Deployed scam-risk analysis application for text, URLs, images, and voice transc
 
 ## Current focus
 
-- Completing CodexForge's end-to-end, approval-gated GitHub workflow
+- Making Enterprise ChangeOps production-ready with verified-user access and a refined operational UI
 - Deepening PostgreSQL, distributed-job reliability, observability, and backend system design
 - Practising data structures, algorithms, SQL, and computer-science fundamentals for software-engineering interviews
 
