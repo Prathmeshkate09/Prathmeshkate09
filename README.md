@@ -46,7 +46,7 @@ Deployed scam-risk analysis application for text, URLs, images, and voice transc
 ## Experience
 
 **Full Stack Developer Intern - thyssenkrupp**<br>
-April 2026-Present
+April- Sep (2026)
 
 Contributing to internal enterprise applications across REST APIs, database schemas and migrations, authentication, secure file workflows, defect resolution, and deployment support.
 
