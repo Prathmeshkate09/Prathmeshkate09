@@ -2,7 +2,7 @@
 
 Software engineer building reliable APIs, data-backed applications, and AI-enabled product workflows.
 
-- Full Stack Developer Intern at **thyssenkrupp**, working on internal project-management, site-management, and CRM applications
+- Completed a Full Stack Developer Internship at **thyssenkrupp**, working on internal project-management, site-management, and CRM applications
 - 2026 B.E. graduate in **Artificial Intelligence and Data Science**
 - Focused on **Python, FastAPI, PostgreSQL, TypeScript, testing, Docker, and CI/CD**
 - Open to **Backend Engineer, Software Development Engineer, and backend-leaning Full-Stack** opportunities in India
@@ -46,13 +46,12 @@ Deployed scam-risk analysis application for text, URLs, images, and voice transc
 ## Experience
 
 **Full Stack Developer Intern - thyssenkrupp**<br>
-April- Sep (2026)
+April – September 2026
 
-Contributing to internal enterprise applications across REST APIs, database schemas and migrations, authentication, secure file workflows, defect resolution, and deployment support.
+Contributed to internal enterprise applications across REST APIs, database schemas and migrations, authentication, secure file workflows, defect resolution, and deployment support.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/prathmesh-kate-022799257/)
 - [GitHub](https://github.com/Prathmeshkate09)
 - [Email](mailto:kateprathamesh968@gmail.com)
-
